@@ -1,0 +1,78 @@
+{
+  "fractions": {
+    "Needs Support": {
+      "level": "Needs Support",
+      "student_message": "You are finding this topic difficult. Let's rebuild your understanding step by step.",
+      "teacher_insight": "Student shows low accuracy and high dependency on hints. Foundational gaps detected.",
+      "instruction_strategy": "Use concrete examples, visuals, and highly guided instruction.",
+      "assessment": "Diagnostic quiz with hints enabled",
+      "risk_flag": "High risk of falling behind",
+      "next_step": "Start with basic fraction concepts and visual explanations",
+      "focus_area": "Understanding numerator and denominator",
+      "resources": [
+        "fractions_basics_video.mp4",
+        "visual_fraction_blocks.pdf"
+      ]
+    },
+
+    "Developing": {
+      "level": "Developing",
+      "student_message": "You are improving, but still need practice to become confident.",
+      "teacher_insight": "Partial understanding present. Inconsistency observed across attempts.",
+      "instruction_strategy": "Mix of guided practice and independent questions.",
+      "assessment": "Short practice quiz after each concept",
+      "risk_flag": "Moderate risk if not reinforced",
+      "next_step": "Practice addition and subtraction of fractions",
+      "focus_area": "Accuracy and confidence building",
+      "resources": [
+        "fractions_practice_set1.pdf",
+        "worked_examples_video.mp4"
+      ]
+    },
+
+    "Competent": {
+      "level": "Competent",
+      "student_message": "You understand the topic well. Keep practicing to strengthen speed and accuracy.",
+      "teacher_insight": "Concepts are clear. Minor mistakes due to speed or carelessness.",
+      "instruction_strategy": "Independent practice with occasional feedback.",
+      "assessment": "Timed practice quizzes",
+      "risk_flag": "Low risk",
+      "next_step": "Solve mixed difficulty word problems",
+      "focus_area": "Speed and application",
+      "resources": [
+        "fractions_word_problems.pdf",
+        "practice_quiz_level2.json"
+      ]
+    },
+
+    "Dependent Advanced": {
+      "level": "Dependent Advanced",
+      "student_message": "You perform well, but try solving more questions without hints.",
+      "teacher_insight": "High accuracy but over-reliance on hints indicates reduced confidence.",
+      "instruction_strategy": "Gradually remove scaffolding and encourage independent attempts.",
+      "assessment": "Challenge quiz with hints disabled",
+      "risk_flag": "Low academic risk, moderate confidence concern",
+      "next_step": "Attempt problems without support tools",
+      "focus_area": "Independent problem solving",
+      "resources": [
+        "challenge_questions_set.pdf",
+        "self_assessment_checklist.pdf"
+      ]
+    },
+
+    "Independent Mastery": {
+      "level": "Independent Mastery",
+      "student_message": "Excellent work! You are mastering this topic confidently.",
+      "teacher_insight": "Consistently high performance with low hesitation and strong independence.",
+      "instruction_strategy": "Provide enrichment tasks and higher-order challenges.",
+      "assessment": "Project-based or case-study assessment",
+      "risk_flag": "No risk – high performer",
+      "next_step": "Explore advanced applications of fractions",
+      "focus_area": "Critical thinking and real-world application",
+      "resources": [
+        "real_world_fraction_project.pdf",
+        "advanced_fraction_challenges.json"
+      ]
+    }
+  }
+}
